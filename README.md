@@ -1,6 +1,6 @@
 # Binary Phase Diagram Computation via Common Tangent Construction
 
-## Theoretical Background (Gaskell Section 10)
+## Theoretical Background (Gaskell - Chapter 10)
 
 This code computes a temperature-composition binary phase diagram by implementing the **common tangent construction** method described in **Chapter 10 of Gaskell's *Introduction to the Thermodynamics of Materials***. The system models two components (A and B) that form solid and liquid solutions with non-ideal mixing behavior.
 
