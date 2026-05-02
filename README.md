@@ -123,5 +123,4 @@ Six representative temperatures showcase the Gibbs energy curves with superimpos
 - Name: Mohammad Reza Hadi
 - E-mail: mohammadreza.hadi.2002@gmail.com
 
-
-### Algorithm Overview
+##  
