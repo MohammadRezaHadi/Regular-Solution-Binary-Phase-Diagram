@@ -65,6 +65,14 @@ $$
 \end{cases}
 $$
 
+$$
+\begin{cases}
+\begin{aligned}
+&\dfrac{G^L_M(X_B^L) - G^S_M(X_B^S)}{X_B^L - X_B^S} - \dfrac{\partial G^S_M}{\partial X_B}(X_B^S) = 0
+\end{aligned}
+\end{cases}
+$$
+
 ### Miscibility Gaps (Gaskell §10.7)
 
 When $\Omega > 2RT$, the Gibbs energy curve develops **two inflection points**, leading to phase separation within the same phase (solid or liquid miscibility gap). The code detects this condition and computes **solid-solid** or **liquid-liquid** coexistence.
