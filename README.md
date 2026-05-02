@@ -57,10 +57,10 @@ $$\frac{G^L_M(X_B^L) - G^S_M(X_B^S)}{X_B^L - X_B^S} = \left. \frac{\partial G^{S
 These two conditions form the **system of nonlinear equations** solved at each temperature:
 
 $$
-\left\{ \begin{align}
-&\dfrac{\partial G^S_M}{\partial X_B}(X_B^S) - \dfrac{\partial G^L_M}{\partial X_B}(X_B^L) = 0 \\[12pt]
-&\dfrac{G^L_M(X_B^L) - G^S_M(X_B^S)}{X_B^L - X_B^S} - \dfrac{\partial G^S_M}{\partial X_B}(X_B^S) = 0
-\end{align} \right.
+\begin{align}
+\dfrac{\partial G^S_M}{\partial X_B}(X_B^S) - \dfrac{\partial G^L_M}{\partial X_B}(X_B^L) &= 0 \tag{1}\\[12pt]
+\dfrac{G^L_M(X_B^L) - G^S_M(X_B^S)}{X_B^L - X_B^S} - \dfrac{\partial G^S_M}{\partial X_B}(X_B^S) &= 0 \tag{2}
+\end{align}
 $$
 
 ### Miscibility Gaps (Gaskell §10.7)
