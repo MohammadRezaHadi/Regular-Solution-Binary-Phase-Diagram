@@ -111,9 +111,16 @@ When $\Omega > 2RT$, the Gibbs energy curve develops **two inflection points**, 
   - $S + L$: Two-phase solid-liquid region
   - $S$: Single-phase solid solution
   - $L$: Single-phase liquid solution
+ 
+**Figure 1: Binary Phase Diagram**
+![Phase Diagram](Results/Phase_Diagram.png)
+*The computed T–X_B phase diagram showing solidus (red) and liquidus (blue) curves.*
 
 ### Common Tangent Verification Plot
 Six representative temperatures showcase the Gibbs energy curves with superimposed common tangents, visually confirming the numerically computed equilibrium compositions.
+**Figure 2: Common Tangent Verification**
+![Common Tangents](Results/Sample_Tangent_Points.png)
+*Gibbs free energy curves with common tangents at six representative temperatures.*
 
 ---
 
