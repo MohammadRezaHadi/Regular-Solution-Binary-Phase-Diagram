@@ -147,6 +147,5 @@ Six representative temperatures showcase the Gibbs energy curves with superimpos
 - **Institution:** University of Tehran  
 - **Department:** Materials Engineering
 - **Field:** Computational Materials Science
-- **Date:** May 2026
 
 ##
