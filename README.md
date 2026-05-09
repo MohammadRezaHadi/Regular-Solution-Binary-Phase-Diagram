@@ -114,7 +114,7 @@ When $\Omega > 2RT$, the Gibbs energy curve develops **two inflection points**, 
  
 <p align="center">
   <b>Figure 1: Binary Phase Diagram</b>
-  <br>
+  <br><br>
   <img src="Results/Phase_Diagram.png" alt="Phase Diagram" width="600">
   <br>
   <i>The computed T–X<sub>B</sub> phase diagram showing solidus (red) and liquidus (blue) curves.</i>
@@ -125,7 +125,7 @@ Six representative temperatures showcase the Gibbs energy curves with superimpos
 
 <p align="center">
   <b>Figure 2: Common Tangent Verification</b>
-  <br>
+  <br><br>
   <img src="Results/Sample_Tangent_Points.png" alt="Tangent Poits" width="600">
   <br>
   <i>Gibbs free energy curves with common tangents at six representative temperatures.</i>
