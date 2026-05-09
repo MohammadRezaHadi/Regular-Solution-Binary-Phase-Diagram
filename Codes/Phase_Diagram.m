@@ -1,4 +1,4 @@
-% Name: Mohammad Reza Hadi
+% Author: Mohammad Reza Hadi
 % E-mail: mohammadreza.hadi.2002@gmail.com
 
 clc; clear; close all;
