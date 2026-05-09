@@ -141,7 +141,12 @@ Six representative temperatures showcase the Gibbs energy curves with superimpos
 
 
 ## Contact
-- Name: Mohammad Reza Hadi
-- E-mail: mohammadreza.hadi.2002@gmail.com
 
-##  
+- **Author:** Mohammad Reza Hadi  
+- **Email:** [mohammadreza.hadi.2002@gmail.com](mailto:mohammadreza.hadi.2002@gmail.com)  
+- **Institution:** University of Tehran  
+- **Department:** Materials Engineering
+- **Field:** Computational Materials Science
+- **Date:** May 2026
+
+##
