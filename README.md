@@ -126,7 +126,7 @@ Six representative temperatures showcase the Gibbs energy curves with superimpos
 <p align="center">
   <b>Figure 2: Common Tangent Verification</b>
   <br><br>
-  <img src="Results/Sample_Tangent_Points.png" alt="Tangent Poits" width="600">
+  <img src="Results/Sample_Tangent_Points.png" alt="Tangent Poits" width="900">
   <br>
   <i>Gibbs free energy curves with common tangents at six representative temperatures.</i>
 </p>
